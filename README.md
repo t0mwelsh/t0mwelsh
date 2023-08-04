@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tomas Welsh
+- 👀 I’m interested in all things coding. Here you will find codes on solving financial option values and numerical schemes for wave propagation
+- as wll as some nice class structures and data analysis.
+- 🌱 I’m currently learning Java, Javascript and Machine Learning having done a decent amount of work in Python and C++.
+- Check out my analogue circuit maker and Snake game for some more interactive, user-friendly work.
